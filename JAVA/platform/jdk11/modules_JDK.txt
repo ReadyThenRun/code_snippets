@@ -1,0 +1,74 @@
+jdk.accessibility	
+Defines JDK utility classes used by implementors of Assistive Technologies.
+jdk.attach	
+Defines the attach API.
+jdk.charsets	
+Provides charsets that are not in java.base (mostly double byte and IBM charsets).
+jdk.compiler	
+Defines the implementation of the system Java compiler and its command line equivalent, javac.
+jdk.crypto.cryptoki	
+Provides the implementation of the SunPKCS11 security provider.
+jdk.crypto.ec	
+Provides the implementation of the SunEC security provider.
+jdk.dynalink	
+Defines the API for dynamic linking of high-level operations on objects.
+jdk.editpad	
+Provides the implementation of the edit pad service used by jdk.jshell.
+jdk.hotspot.agent	
+Defines the implementation of the HotSpot Serviceability Agent.
+jdk.httpserver	
+Defines the JDK-specific HTTP server API.
+jdk.jartool	
+Defines tools for manipulating Java Archive (JAR) files, including the jar and jarsigner tools.
+jdk.javadoc	
+Defines the implementation of the system documentation tool and its command line equivalent, javadoc.
+jdk.jcmd	
+Defines tools for diagnostics and troubleshooting a JVM such as the jcmd, jps, jstat tools.
+jdk.jconsole	
+Defines the JMX graphical tool, jconsole, for monitoring and managing a running application.
+jdk.jdeps	
+Defines tools for analysing dependencies in Java libraries and programs, including the jdeps, javap, and jdeprscan tools.
+jdk.jdi	
+Defines the Java Debug Interface.
+jdk.jdwp.agent	
+Provides the implementation of the Java Debug Wire Protocol (JDWP) agent.
+jdk.jfr	
+Defines the API for JDK Flight Recorder.
+jdk.jlink	
+Defines the jlink tool for creating run-time images, the jmod tool for creating and manipulating JMOD files, and the jimage tool for inspecting the JDK implementation-specific container file for classes and resources.
+jdk.jshell	
+This module provides support for Java Programming Language 'snippet' evaluating tools, such as Read-Eval-Print Loops (REPLs), including the jshell tool.
+jdk.jsobject	
+Defines the API for the JavaScript Object.
+jdk.jstatd	
+Defines the jstatd tool for starting a daemon for the jstat tool to monitor JVM statistics remotely.
+jdk.localedata	
+Provides the locale data for locales other than US locale.
+jdk.management	
+Defines JDK-specific management interfaces for the JVM.
+jdk.management.agent	
+Defines the JMX management agent.
+jdk.management.jfr	
+Defines the Management Interface for JDK Flight Recorder.
+jdk.naming.dns	
+Provides the implementation of the DNS Java Naming provider.
+jdk.naming.rmi	
+Provides the implementation of the RMI Java Naming provider.
+jdk.net	
+Defines the JDK-specific Networking API.
+jdk.pack	
+Defines tools for transforming a JAR file into a compressed pack200 file and transforming a packed file into a JAR file, including the pack200 and unpack200 tools.
+jdk.rmic	
+Defines the rmic compiler for generating stubs and skeletons using the Java Remote Method Protocol (JRMP) for remote objects.
+jdk.scripting.nashorn	
+Provides the implementation of Nashorn script engine and the runtime environment for programs written in ECMAScript 5.1.
+jdk.sctp	
+Defines the JDK-specific API for SCTP.
+jdk.security.auth	
+Provides implementations of the javax.security.auth.* interfaces and various authentication modules.
+jdk.security.jgss	
+Defines JDK extensions to the GSS-API and an implementation of the SASL GSSAPI mechanism.
+jdk.xml.dom	
+Defines the subset of the W3C Document Object Model (DOM) API that is not part of the Java SE API.
+jdk.zipfs	
+Provides the implementation of the zip file system provider.
