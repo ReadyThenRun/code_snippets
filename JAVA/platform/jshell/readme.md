@@ -1,4 +1,4 @@
-jshell> /help
+jshell> /help  
 |  Type a Java language expression, statement, or declaration.  
 |  Or type one of the following commands:  
 |  /list [<name or id>|-all|-start]  
